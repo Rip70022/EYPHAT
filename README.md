@@ -1,5 +1,6 @@
 # EYPHAT
 description:
+
 `EYPHAT` is a `brute force` and dictionary `attack` tool that can be used to `decrypt` password-protected `ZIP` and `PDF` files, as well as other text files.
 Required Dependencies:
 - pyzipper: For AES encrypted ZIP files
